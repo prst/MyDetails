@@ -49,26 +49,24 @@ USED | NAME           | N
 -----+----------------+---
 +    | 2T606A         | 1   npn, UÊÝmax,Â=65; IÊmax,À=0.8; Pmax,Âע=2.5; h21‎=15; fדנ,ÌÃצ=350
 +    | ÊT611ÁÌ        | 1   npn, UÊÝmax,Â=200; IÊmax,À=0.1; Pmax,Âע=0.8; h21‎=30; fדנ,ÌÃצ=60
-     | ÊÒ814Â         | 1   npn, UÊÝmax,Â=; IÊmax,À=; Pmax,Âע=; h21‎=; fדנ,ÌÃצ=
-+    | ÊÒ807Á         | 2   npn, UÊÝmax,Â=; IÊmax,À=; Pmax,Âע=; h21‎=; fדנ,ÌÃצ=
-+    | ÊÒ814À         | 2   npn, UÊÝmax,Â=; IÊmax,À=; Pmax,Âע=; h21‎=; fדנ,ÌÃצ=
-     | ÊÒ814Â         | 2   npn, UÊÝmax,Â=; IÊmax,À=; Pmax,Âע=; h21‎=; fדנ,ÌÃצ=
-+    | ÊÒ814Ã         | 1   npn, UÊÝmax,Â=; IÊmax,À=; Pmax,Âע=; h21‎=; fדנ,ÌÃצ=
-+    | ÊÒ815Á         | 1   npn, UÊÝmax,Â=; IÊmax,À=; Pmax,Âע=; h21‎=; fדנ,ÌÃצ=
-     | ÊÒ815Á         | 2   npn, UÊÝmax,Â=; IÊmax,À=; Pmax,Âע=; h21‎=; fדנ,ÌÃצ=
-     | ÊÒ816À         | 3   npn, UÊÝmax,Â=; IÊmax,À=; Pmax,Âע=; h21‎=; fדנ,ÌÃצ=
-     | ÊÒ816Â         | 1   npn, UÊÝmax,Â=; IÊmax,À=; Pmax,Âע=; h21‎=; fדנ,ÌÃצ=
-     | ÊÒ817Á         | 2   npn, UÊÝmax,Â=; IÊmax,À=; Pmax,Âע=; h21‎=; fדנ,ÌÃצ=
-     | ÊÒ817Ã         | 1   npn, UÊÝmax,Â=; IÊmax,À=; Pmax,Âע=; h21‎=; fדנ,ÌÃצ=
-+    | KT829A 9011    | 1   npn, UÊÝmax,Â=; IÊmax,À=; Pmax,Âע=; h21‎=; fדנ,ÌÃצ=
-+    | KT835A         | 1   npn, UÊÝmax,Â=; IÊmax,À=; Pmax,Âע=; h21‎=; fדנ,ÌÃצ=
-     | KT835A         | 2   npn, UÊÝmax,Â=; IÊmax,À=; Pmax,Âע=; h21‎=; fדנ,ÌÃצ=
++    | ÊÒ807Á         | 2   npn, UÊÝmax,Â=100; IÊmax,À=0.5; Pmax,Âע=10; h21‎=15; fדנ,ÌÃצ=5
++    | ÊÒ814À         | 2   pnp, UÊÝmax,Â=70; IÊmax,À=1.5; Pmax,Âע=10; h21‎=40; fדנ,ÌÃצ=50
+     | ÊÒ814Â (BD138) | 3   pnp, UÊÝmax,Â=70; IÊmax,À=1.5; Pmax,Âע=10; h21‎=40; fדנ,ÌÃצ=50
++    | ÊÒ814Ã         | 1   pnp, UÊÝmax,Â=70; IÊmax,À=1.5; Pmax,Âע=10; h21‎=40; fדנ,ÌÃצ=50
++    | ÊÒ815Á         | 1   npn, UÊÝmax,Â=50; IÊmax,À=1.5; Pmax,Âע=10; h21‎=40; fדנ,ÌÃצ=3
+     | ÊÒ815Á         | 2   npn, UÊÝmax,Â=50; IÊmax,À=1.5; Pmax,Âע=10; h21‎=40; fדנ,ÌÃצ=3
+     | ÊÒ816À         | 3   pnp, UÊÝmax,Â=40; IÊmax,À=6; Pmax,Âע=25; h21‎=25; fדנ,ÌÃצ=3
+     | ÊÒ816Â         | 1   pnp, UÊÝmax,Â=60; IÊmax,À=6; Pmax,Âע=25; h21‎=25; fדנ,ÌÃצ=3
+     | ÊÒ817Á         | 2   npn, UÊÝmax,Â=45; IÊmax,À=6; Pmax,Âע=25; h21‎=25; fדנ,ÌÃצ=3
+     | ÊÒ817Ã         | 1   npn, UÊÝmax,Â=80; IÊmax,À=6; Pmax,Âע=25; h21‎=25; fדנ,ÌÃצ=3
++    | KT829A 9011    | 1   npn, UÊÝmax,Â=100; IÊmax,À=8; Pmax,Âע=60; h21‎=750; fדנ,ÌÃצ=4
++    | KT835A         | 1   npn, UÊÝmax,Â=40; IÊmax,À=3; Pmax,Âע=25; h21‎=25; fדנ,ÌÃצ=1
+     | KT835A         | 2   npn, UÊÝmax,Â=40; IÊmax,À=3; Pmax,Âע=25; h21‎=25; fדנ,ÌÃצ=1
      | ÊÒ85---        | 1   npn, UÊÝmax,Â=; IÊmax,À=; Pmax,Âע=; h21‎=; fדנ,ÌÃצ=
-+    | ÊÒ972A         | 2   npn, UÊÝmax,Â=; IÊmax,À=; Pmax,Âע=; h21‎=; fדנ,ÌÃצ=
-+    | ÊÒ961A         | 1   npn, UÊÝmax,Â=; IÊmax,À=; Pmax,Âע=; h21‎=; fדנ,ÌÃצ=
++    | ÊÒ972A         | 2   npn, UÊÝmax,Â=60; IÊmax,À=4; Pmax,Âע=8; h21‎=750; fדנ,ÌÃצ=200
++    | ÊÒ961A         | 1   npn, UÊÝmax,Â=100; IÊmax,À=1.5; Pmax,Âע=12; h21‎=40; fדנ,ÌÃצ=50
      |                | 
 .....|................|....
-+    | BD676  9  923  | 10
      |                | 
      |                | 
 -----+----------------+----
@@ -78,19 +76,19 @@ USED | NAME           | N
 -----+----------------+----
 USED | NAME           | N
 -----+----------------+---
-     | IRF3205        | 2
-     | IRF710 Y95T AC | 2
-     | IRF4905 K2  VU | 2
-     | IRFR3707ZTRPBF | 8
-     | IRFZ34N 4M 2B  | 1
+     | IRF3205        | 2   N-MOSFET, Vds,Â=55; Ugs,Â=20; Rds,Ohm=0.008; Id,À=110; Id.pulse,À=; Cg,pF=; S,לÀ/Â=44, Psd.W=200
+     | IRF4905 K2  VU | 2   P-MOSFET, Vds,Â=55; Ugs,Â=20; Rds,Ohm=0.02; Id,À=74; Id.pulse,À=; Cg,pF=; S,לÀ/Â=21; Psd,W=200
+     | IRF710 Y95T AC | 2   N-MOSFET, Vds,Â=400; Ugs,Â=20; Rds,Ohm=3.6; Id,À=2; Id.pulse,À=; Cg,pF=; S,לÀ/Â=1; Psd,W=36
+     | IRFR3707ZTRPBF | 8   N-MOSFET, Vds,Â=30; Ugs,Â=20; Rds,Ohm=0.0095; Id,À=56; Id.pulse,À=; Cg,pF=; S,לÀ/Â=71; Psd,W=50
+     | IRFZ34N 4M 2B  | 1   N-MOSFET, Vds,Â=55; Ugs,Â=20; Rds,Ohm=0.04; Id,À=26; Id.pulse,À=; Cg,pF=; S,לÀ/Â=6.5; Psd,W=56
      |                | 
 .....|................|....
-+    | BD676  9  923  | 10
-     | C2335-Y        | 2
-     | C3502 E  3G    | 1
-+    | MJE13001       | 2
-     | MJE13001       | 2
-     | MJE13003  Fe 83| 10
++    | BD676  9  923  | 10  pnp, UÊÝmax,Â=45; IÊmax,À=4; Pmax,Âע=40; h21‎=750; fדנ,ÌÃצ=1
+     | C2335-Y        | 2   npn, UÊÝmax,Â=400; IÊmax,À=7; Pmax,Âע=40; h21‎=20; fדנ,ÌÃצ=20
+     | C3502 E  3G    | 1   npn, UÊÝmax,Â=200; IÊmax,À=0.1; Pmax,Âע=5; h21‎=125; fדנ,ÌÃצ=150
++    | MJE13001       | 2   npn, UÊÝmax,Â=600; IÊmax,À=0.2; Pmax,Âע=10; h21‎=10; fדנ,ÌÃצ=8
+     | MJE13001       | 2   npn, UÊÝmax,Â=600; IÊmax,À=0.2; Pmax,Âע=10; h21‎=10; fדנ,ÌÃצ=855 @ to92
+     | MJE13003  Fe 83| 10  npn, UÊÝmax,Â=700; IÊmax,À=1.5; Pmax,Âע=40; h21‎=15; fדנ,ÌÃצ=25 @ sot323
      |                | 
      |                | 
 -----+----------------+----
