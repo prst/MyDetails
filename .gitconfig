@@ -1,24 +1,32 @@
 [core]
  #ignorecase = true
  excludesfile = /home/stas/.gitignore
-
+ editor = \"C:/Program Files/GitExtensions/GitExtensions.exe\" fileeditor
+ autocrlf = false
+	
 [user]
  name = "Stanislav Prykhodko"
- email = "stas@***mail***.com"
-
+ email = "pr.stas@gmail.com"
+	
 [color]
  status = auto
  branch = auto
  ui = true
-
+ #ui = auto
+ interactive = auto
+	
 #[http]
-#proxy = http://login:password@our-proxy-server:8088
-#proxy = http://domain\\login:password@our-proxy-server:8088
+# proxy = http://login:password@our-proxy-server:8088
+# proxy = http://domain\\login:password@our-proxy-server:8088
 
 [alias]
- st = status
+ s = status
  ci = commit
- my-status = status -s -b
+ l = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold green) %an %Creset'
+ b = branch
+ bi = status -s -b
  my-log = log --pretty=format:'%h - %s' --graph
 
-
+[branch "master"]
+ remote = https://prst@github.com/prst/MyDetails.git
+ merge = refs/heads/master
