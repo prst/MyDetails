@@ -5,15 +5,15 @@
 USED | NAME           | N
 -----+----------------+---
 +    | 2Ò208Á         | 1   pnp, Ucbo.max,V=20; Uce.max,V=30; Ic.max,A=0.15; Fmax,MHz=5; Pc,W=0.2, h21e.min=40
-+    | ÃÒ322À 12 79   | 1   pnp, Uce.max,V=20; Ic.max,A=0.15[0.3]; Pmax,Âò=0.2; h21e=40-120; Fmax,MHz=5
-+    | ÊÒ3107Á        | 1   pnp, Uce.max,V=45; Ic.max,A=0.1; Pmax,Âò=0.3; h21e=120-220; Fmax,MHz=200
-     | ÊÒ3107Ã        | 1   pnp, Uce.max,V=25; Ic.max,A=0.1; Pmax,Âò=0.3; h21e=120-220; Fmax,MHz=200
-     | ÊÒ3107È        | 2   pnp, Uce.max,V=45; Ic.max,A=0.1; Pmax,Âò=0.3; h21e=180-460; Fmax,MHz=200
-+    | ÊÒ3102Á        | 1   npn, Uce.max,V=50; Ic.max,A=0.1; Pmax,Âò=0.25; h21e=200-500; Fmax,MHz=200
-+    | ÊÒ3102Ä        | 1   npn, Uce.max,V=30; Ic.max,A=0.1; Pmax,Âò=0.25; h21e=200-500; Fmax,MHz=200
-+    | ÊÒ3102ÊÌ       | 2   npn, ??? Uce.max,V=50; Ic.max,A=0.1; Pmax,Âò=0.25; h21e=200-500; Fmax,MHz=200
-+    | ÊÒ503Á         | 1   npn, Uce.max,V=25; Ic.max,A=0.15; Pmax,Âò=0.35; h21e=80-240; Fmax,MHz=5
-+    | ÊÒ368-À9       | 10  npn, Uce.max,V=; Ic.max,A=; Pmax,Âò=; h21e=; Fmax,MHz=
++    | ÃÒ322À 12 79   | 1   pnp, Uce.max,V=20; Ic.max,A=0.15[0.3]; Pmax,W=0.2; h21e=40-120; Fmax,MHz=5
++    | ÊÒ3107Á        | 1   pnp, Uce.max,V=45; Ic.max,A=0.1; Pmax,W=0.3; h21e=120-220; Fmax,MHz=200
+     | ÊÒ3107Ã        | 1   pnp, Uce.max,V=25; Ic.max,A=0.1; Pmax,W=0.3; h21e=120-220; Fmax,MHz=200
+     | ÊÒ3107È        | 2   pnp, Uce.max,V=45; Ic.max,A=0.1; Pmax,W=0.3; h21e=180-460; Fmax,MHz=200
++    | ÊÒ3102Á        | 1   npn, Uce.max,V=50; Ic.max,A=0.1; Pmax,W=0.25; h21e=200-500; Fmax,MHz=200
++    | ÊÒ3102Ä        | 1   npn, Uce.max,V=30; Ic.max,A=0.1; Pmax,W=0.25; h21e=200-500; Fmax,MHz=200
++    | ÊÒ3102ÊÌ       | 2   npn, ??? Uce.max,V=50; Ic.max,A=0.1; Pmax,W=0.25; h21e=200-500; Fmax,MHz=200
++    | ÊÒ503Á         | 1   npn, Uce.max,V=25; Ic.max,A=0.15; Pmax,W=0.35; h21e=80-240; Fmax,MHz=5
++    | ÊÒ368-À9       | 10  npn, Uce.max,V=; Ic.max,A=; Pmax,W=; h21e=; Fmax,MHz=
 .....|................|....
 +    | ÊÏ103Ë         | 1   P-FET, Usd,V=12; Isd.max,mA=20; Ugs.max,V=6; Rsd.On,MOhm=; Psd.max,W=0.066; S,mA/V=3
 +    | ÊÏ303Â         | 1   N-FET, Usd,V=25; Isd.max,mA=20; Ugs.max,V=4; Rsd.On,MOhm=; Psd.max,W=0.2; S,mA/V=3
@@ -29,13 +29,13 @@ USED | NAME           | N
 -----+----------------+----
 USED | NAME           | N
 -----+----------------+---
-+    | S8850->???     | 1   pnp, Uce.max,V=; Ic.max,A=; Pmax,Âò=; h21e=; Fmax,MHz=
-     | C945  YC231    | 1   npn, Uce.max,V=40; Ic.max,A=0.1; Pmax,Âò=0.25; h21e=90-160; Fmax,MHz=125
-     | 2SC945 *ÊÒ3102Ä| 10  npn, Uce.max,V=40; Ic.max,A=0.1; Pmax,Âò=0.25; h21e=90-160; Fmax,MHz=125
-     | FMMT617        | 2   npn, Uce.max,V=15; Ic.max,A=3; Pmax,Âò=0.8; h21e=200-450; Fmax,MHz=125
-     | FMMT618        | 1   npn, Uce.max,V=20; Ic.max,A=2.5; Pmax,Âò=0.8; h21e=200-450; Fmax,MHz=140
-+    | A1023          | 1   PNP, Uce.max,V=120; Ic.max,A=0.8; Pmax,Âò=1; h21e=80-240; Fmax,MHz=120 @ Hi VOLTAGE
-     | BC807-40       | 59  pnp, Uce.max,V=45; Ic.max,A=0.5; Pmax,Âò=0.25; h21e=250-600; Fmax,MHz=80  @ SOT-23 
++    | S8850->???     | 1   pnp, Uce.max,V=; Ic.max,A=; Pmax,W=; h21e=; Fmax,MHz=
+     | C945  YC231    | 1   npn, Uce.max,V=40; Ic.max,A=0.1; Pmax,W=0.25; h21e=90-160; Fmax,MHz=125
+     | 2SC945 *ÊÒ3102Ä| 10  npn, Uce.max,V=40; Ic.max,A=0.1; Pmax,W=0.25; h21e=90-160; Fmax,MHz=125
+     | FMMT617        | 2   npn, Uce.max,V=15; Ic.max,A=3; Pmax,W=0.8; h21e=200-450; Fmax,MHz=125
+     | FMMT618        | 1   npn, Uce.max,V=20; Ic.max,A=2.5; Pmax,W=0.8; h21e=200-450; Fmax,MHz=140
++    | A1023          | 1   PNP, Uce.max,V=120; Ic.max,A=0.8; Pmax,W=1; h21e=80-240; Fmax,MHz=120 @ Hi VOLTAGE
+     | BC807-40       | 59  pnp, Uce.max,V=45; Ic.max,A=0.5; Pmax,W=0.25; h21e=250-600; Fmax,MHz=80  @ SOT-23 
 .....|................|....
      | IRLML0030TRPBF | 10  N-MOSFET, Vds,Â=30; Rds,Ohm=0.027; Id,À=5.3; Id.pulse,À=21; Cg,pF=382; S,mA/V=9.5
      |                | 
@@ -47,24 +47,24 @@ USED | NAME           | N
 -----+----------------+----
 USED | NAME           | N
 -----+----------------+---
-+    | 2T606A         | 1   npn, Uce.max,V=65; Ic.max,A=0.8; Pmax,Âò=2.5; h21e=15; Fmax,MHz=350
-+    | ÊT611ÁÌ        | 1   npn, Uce.max,V=200; Ic.max,A=0.1; Pmax,Âò=0.8; h21e=30; Fmax,MHz=60
-+    | ÊÒ807Á         | 2   npn, Uce.max,V=100; Ic.max,A=0.5; Pmax,Âò=10; h21e=15; Fmax,MHz=5
-+    | ÊÒ814À         | 2   pnp, Uce.max,V=70; Ic.max,A=1.5; Pmax,Âò=10; h21e=40; Fmax,MHz=50
-     | ÊÒ814Â (BD138) | 3   pnp, Uce.max,V=70; Ic.max,A=1.5; Pmax,Âò=10; h21e=40; Fmax,MHz=50
-+    | ÊÒ814Ã         | 1   pnp, Uce.max,V=70; Ic.max,A=1.5; Pmax,Âò=10; h21e=40; Fmax,MHz=50
-+    | ÊÒ815Á         | 1   npn, Uce.max,V=50; Ic.max,A=1.5; Pmax,Âò=10; h21e=40; Fmax,MHz=3
-     | ÊÒ815Á         | 2   npn, Uce.max,V=50; Ic.max,A=1.5; Pmax,Âò=10; h21e=40; Fmax,MHz=3
-     | ÊÒ816À         | 3   pnp, Uce.max,V=40; Ic.max,A=6; Pmax,Âò=25; h21e=25; Fmax,MHz=3
-     | ÊÒ816Â         | 1   pnp, Uce.max,V=60; Ic.max,A=6; Pmax,Âò=25; h21e=25; Fmax,MHz=3
-     | ÊÒ817Á         | 2   npn, Uce.max,V=45; Ic.max,A=6; Pmax,Âò=25; h21e=25; Fmax,MHz=3
-     | ÊÒ817Ã         | 1   npn, Uce.max,V=80; Ic.max,A=6; Pmax,Âò=25; h21e=25; Fmax,MHz=3
-+    | KT829A 9011    | 1   npn, Uce.max,V=100; Ic.max,A=8; Pmax,Âò=60; h21e=750; Fmax,MHz=4
-+    | KT835A         | 1   npn, Uce.max,V=40; Ic.max,A=3; Pmax,Âò=25; h21e=25; Fmax,MHz=1
-     | KT835A         | 2   npn, Uce.max,V=40; Ic.max,A=3; Pmax,Âò=25; h21e=25; Fmax,MHz=1
-     | ÊÒ85---        | 1   npn, Uce.max,V=; Ic.max,A=; Pmax,Âò=; h21e=; Fmax,MHz=
-+    | ÊÒ972A         | 2   npn, Uce.max,V=60; Ic.max,A=4; Pmax,Âò=8; h21e=750; Fmax,MHz=200
-+    | ÊÒ961A         | 1   npn, Uce.max,V=100; Ic.max,A=1.5; Pmax,Âò=12; h21e=40; Fmax,MHz=50
++    | 2T606A         | 1   npn, Uce.max,V=65; Ic.max,A=0.8; Pmax,W=2.5; h21e=15; Fmax,MHz=350
++    | ÊT611ÁÌ        | 1   npn, Uce.max,V=200; Ic.max,A=0.1; Pmax,W=0.8; h21e=30; Fmax,MHz=60
++    | ÊÒ807Á         | 2   npn, Uce.max,V=100; Ic.max,A=0.5; Pmax,W=10; h21e=15; Fmax,MHz=5
++    | ÊÒ814À         | 2   pnp, Uce.max,V=70; Ic.max,A=1.5; Pmax,W=10; h21e=40; Fmax,MHz=50
+     | ÊÒ814Â (BD138) | 3   pnp, Uce.max,V=70; Ic.max,A=1.5; Pmax,W=10; h21e=40; Fmax,MHz=50
++    | ÊÒ814Ã         | 1   pnp, Uce.max,V=70; Ic.max,A=1.5; Pmax,W=10; h21e=40; Fmax,MHz=50
++    | ÊÒ815Á         | 1   npn, Uce.max,V=50; Ic.max,A=1.5; Pmax,W=10; h21e=40; Fmax,MHz=3
+     | ÊÒ815Á         | 2   npn, Uce.max,V=50; Ic.max,A=1.5; Pmax,W=10; h21e=40; Fmax,MHz=3
+     | ÊÒ816À         | 3   pnp, Uce.max,V=40; Ic.max,A=6; Pmax,W=25; h21e=25; Fmax,MHz=3
+     | ÊÒ816Â         | 1   pnp, Uce.max,V=60; Ic.max,A=6; Pmax,W=25; h21e=25; Fmax,MHz=3
+     | ÊÒ817Á         | 2   npn, Uce.max,V=45; Ic.max,A=6; Pmax,W=25; h21e=25; Fmax,MHz=3
+     | ÊÒ817Ã         | 1   npn, Uce.max,V=80; Ic.max,A=6; Pmax,W=25; h21e=25; Fmax,MHz=3
++    | KT829A 9011    | 1   npn, Uce.max,V=100; Ic.max,A=8; Pmax,W=60; h21e=750; Fmax,MHz=4
++    | KT835A         | 1   npn, Uce.max,V=40; Ic.max,A=3; Pmax,W=25; h21e=25; Fmax,MHz=1
+     | KT835A         | 2   npn, Uce.max,V=40; Ic.max,A=3; Pmax,W=25; h21e=25; Fmax,MHz=1
+     | ÊÒ85---        | 1   npn, Uce.max,V=; Ic.max,A=; Pmax,W=; h21e=; Fmax,MHz=
++    | ÊÒ972A         | 2   npn, Uce.max,V=60; Ic.max,A=4; Pmax,W=8; h21e=750; Fmax,MHz=200
++    | ÊÒ961A         | 1   npn, Uce.max,V=100; Ic.max,A=1.5; Pmax,W=12; h21e=40; Fmax,MHz=50
      |                | 
 .....|................|....
      |                | 
@@ -83,12 +83,12 @@ USED | NAME           | N
      | IRFZ34N 4M 2B  | 1   N-MOSFET, Vds,Â=55; Ugs,Â=20; Rds,Ohm=0.04; Id,À=26; Id.pulse,À=; Cg,pF=; S,mA/V=6.5; Psd,W=56
      |                | 
 .....|................|....
-+    | BD676  9  923  | 10  pnp, Uce.max,V=45; Ic.max,A=4; Pmax,Âò=40; h21e=750; Fmax,MHz=1
-     | C2335-Y        | 2   npn, Uce.max,V=400; Ic.max,A=7; Pmax,Âò=40; h21e=20; Fmax,MHz=20
-     | C3502 E  3G    | 1   npn, Uce.max,V=200; Ic.max,A=0.1; Pmax,Âò=5; h21e=125; Fmax,MHz=150
-+    | MJE13001       | 2   npn, Uce.max,V=600; Ic.max,A=0.2; Pmax,Âò=10; h21e=10; Fmax,MHz=8
-     | MJE13001       | 2   npn, Uce.max,V=600; Ic.max,A=0.2; Pmax,Âò=10; h21e=10; Fmax,MHz=855 @ to92
-     | MJE13003  Fe 83| 10  npn, Uce.max,V=700; Ic.max,A=1.5; Pmax,Âò=40; h21e=15; Fmax,MHz=25 @ sot323
++    | BD676  9  923  | 10  pnp, Uce.max,V=45; Ic.max,A=4; Pmax,W=40; h21e=750; Fmax,MHz=1
+     | C2335-Y        | 2   npn, Uce.max,V=400; Ic.max,A=7; Pmax,W=40; h21e=20; Fmax,MHz=20
+     | C3502 E  3G    | 1   npn, Uce.max,V=200; Ic.max,A=0.1; Pmax,W=5; h21e=125; Fmax,MHz=150
++    | MJE13001       | 2   npn, Uce.max,V=600; Ic.max,A=0.2; Pmax,W=10; h21e=10; Fmax,MHz=8
+     | MJE13001       | 2   npn, Uce.max,V=600; Ic.max,A=0.2; Pmax,W=10; h21e=10; Fmax,MHz=855 @ to92
+     | MJE13003  Fe 83| 10  npn, Uce.max,V=700; Ic.max,A=1.5; Pmax,W=40; h21e=15; Fmax,MHz=25 @ sot323
      |                | 
      |                | 
 -----+----------------+----
