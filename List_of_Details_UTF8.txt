@@ -6,10 +6,12 @@ USED | NAME           | N
 -----+----------------+---
 +    | 2Т208Б         | 1   pnp, Ucbo.max,V=20; Uce.max,V=30; Ic.max,A=0.15; Fmax,MHz=5; Pc,W=0.2, h21e.min=40
 +    | ГТ322А 12 79   | 1   pnp, Uce.max,V=20; Ic.max,A=0.15[0.3]; Pmax,W=0.2; h21e=40-120; Fmax,MHz=5
++    | КТ342А         | 1   npn, Uce.max,V=25; Ic.max,A=0. 5[0.3]; Pmax,W=0.25; h21e=100-250; Fmax,MHz=250
 +    | КТ3107Б        | 1   pnp, Uce.max,V=45; Ic.max,A=0.1; Pmax,W=0.3; h21e=120-220; Fmax,MHz=200
      | КТ3107Г        | 1   pnp, Uce.max,V=25; Ic.max,A=0.1; Pmax,W=0.3; h21e=120-220; Fmax,MHz=200
      | КТ3107И        | 2   pnp, Uce.max,V=45; Ic.max,A=0.1; Pmax,W=0.3; h21e=180-460; Fmax,MHz=200
 +    | КТ3102Б        | 1   npn, Uce.max,V=50; Ic.max,A=0.1; Pmax,W=0.25; h21e=200-500; Fmax,MHz=200
++    | КТ3102Г        | 2   npn, Uce.max,V=15; Ic.max,A=0.1; Pmax,W=0.25; h21e=400-1000; Fmax,MHz=200
 +    | КТ3102Д        | 1   npn, Uce.max,V=30; Ic.max,A=0.1; Pmax,W=0.25; h21e=200-500; Fmax,MHz=200
 +    | КТ3102КМ       | 2   npn, ??? Uce.max,V=50; Ic.max,A=0.1; Pmax,W=0.25; h21e=200-500; Fmax,MHz=200
 +    | КТ503Б         | 1   npn, Uce.max,V=25; Ic.max,A=0.15; Pmax,W=0.35; h21e=80-240; Fmax,MHz=5
@@ -49,6 +51,7 @@ USED | NAME           | N
 -----+----------------+---
 +    | 2T606A         | 1   npn, Uce.max,V=65; Ic.max,A=0.8; Pmax,W=2.5; h21e=15; Fmax,MHz=350
 +    | КT611БМ        | 1   npn, Uce.max,V=200; Ic.max,A=0.1; Pmax,W=0.8; h21e=30; Fmax,MHz=60
++    | КТ602БМ        | 1   npn, Uce.max,V=100; Ic.max,A=0.075; Pmax,W=0,8; h21e=50-200; Fmax,MHz=150
 +    | КТ807Б         | 2   npn, Uce.max,V=100; Ic.max,A=0.5; Pmax,W=10; h21e=15; Fmax,MHz=5
 +    | КТ814А         | 2   pnp, Uce.max,V=70; Ic.max,A=1.5; Pmax,W=10; h21e=40; Fmax,MHz=50
      | КТ814В (BD138) | 3   pnp, Uce.max,V=70; Ic.max,A=1.5; Pmax,W=10; h21e=40; Fmax,MHz=50
@@ -63,6 +66,10 @@ USED | NAME           | N
 +    | KT835A         | 1   npn, Uce.max,V=40; Ic.max,A=3; Pmax,W=25; h21e=25; Fmax,MHz=1
      | KT835A         | 2   npn, Uce.max,V=40; Ic.max,A=3; Pmax,W=25; h21e=25; Fmax,MHz=1
      | КТ85---        | 1   npn, Uce.max,V=; Ic.max,A=; Pmax,W=; h21e=; Fmax,MHz=
++    | KT837Т         | 2   pnp, Uce.max,V=30; Ic.max,A=7,5; Pmax,W=30; h21e=10-40; Fmax,MHz>=1
++    | KT837Ф         | 1   pnp, Uce.max,V=30; Ic.max,A=7,5; Pmax,W=30; h21e=50-150; Fmax,MHz>=1
++    | KT837У         | 2   pnp, Uce.max,V=30; Ic.max,A=7,5; Pmax,W=30; h21e=20-80; Fmax,MHz>=1
++    | КТ940А         | 1   npn, Uce.max,V=300; Ic.max,A=0,1; Pmax,W=10; h21e=25; Fmax,MHz=1
 +    | КТ972A         | 2   npn, Uce.max,V=60; Ic.max,A=4; Pmax,W=8; h21e=750; Fmax,MHz=200
 +    | КТ961A         | 1   npn, Uce.max,V=100; Ic.max,A=1.5; Pmax,W=12; h21e=40; Fmax,MHz=50
      |                | 
@@ -80,7 +87,7 @@ USED | NAME           | N
      | IRF4905 K2  VU | 2   P-MOSFET, Vds,В=55; Ugs,В=20; Rds,Ohm=0.02; Id,А=74; Id.pulse,А=; Cg,pF=; S,mA/V=21; Psd,W=200
      | IRF710 Y95T AC | 2   N-MOSFET, Vds,В=400; Ugs,В=20; Rds,Ohm=3.6; Id,А=2; Id.pulse,А=; Cg,pF=; S,mA/V=1; Psd,W=36
      | IRFR3707ZTRPBF | 8   N-MOSFET, Vds,В=30; Ugs,В=20; Rds,Ohm=0.0095; Id,А=56; Id.pulse,А=; Cg,pF=; S,mA/V=71; Psd,W=50
-     | IRFZ34N 4M 2B  | 1   N-MOSFET, Vds,В=55; Ugs,В=20; Rds,Ohm=0.04; Id,А=26; Id.pulse,А=; Cg,pF=; S,mA/V=6.5; Psd,W=56
+     | IRFZ34N 4M 2B  | 2   N-MOSFET, Vds,В=55; Ugs,В=20; Rds,Ohm=0.04; Id,А=26; Id.pulse,А=; Cg,pF=; S,mA/V=6.5; Psd,W=56
      |                | 
 .....|................|....
 +    | BD676  9  923  | 10  pnp, Uce.max,V=45; Ic.max,A=4; Pmax,W=40; h21e=750; Fmax,MHz=1
