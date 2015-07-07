@@ -1,202 +1,205 @@
 ﻿
 
  TRANZISTORS SMALL POWER - USSR
------+----------------+----+--------
-USED | NAME           | N  | Price
------+----------------+----+--------
-+    | 2Т208Б         | 1  | pnp, Ucbo.max,V=20; Uce.max,V=30; Ic.max,A=0.15; Fmax,MHz=5; Pc,W=0.2, h21e.min=40
-+    | ГТ322А 12 79   | 1  | pnp, Uce.max,V=20; Ic.max,A=0.15[0.3]; Pmax,W=0.2; h21e=40-120; Fmax,MHz=5
-+    | КТ342А         | 1  | npn, Uce.max,V=25; Ic.max,A=0. 5[0.3]; Pmax,W=0.25; h21e=100-250; Fmax,MHz=250
-+    | КТ3107Б        | 1  | pnp, Uce.max,V=45; Ic.max,A=0.1; Pmax,W=0.3; h21e=120-220; Fmax,MHz=200
-     | КТ3107Г        | 1  | pnp, Uce.max,V=25; Ic.max,A=0.1; Pmax,W=0.3; h21e=120-220; Fmax,MHz=200
-     | КТ3107И        | 2  | pnp, Uce.max,V=45; Ic.max,A=0.1; Pmax,W=0.3; h21e=180-460; Fmax,MHz=200
-+    | КТ3102Б        | 1  | npn, Uce.max,V=50; Ic.max,A=0.1; Pmax,W=0.25; h21e=200-500; Fmax,MHz=200
-+    | КТ3102Г        | 2  | npn, Uce.max,V=15; Ic.max,A=0.1; Pmax,W=0.25; h21e=400-1000; Fmax,MHz=200
-+    | КТ3102Д        | 1  | npn, Uce.max,V=30; Ic.max,A=0.1; Pmax,W=0.25; h21e=200-500; Fmax,MHz=200
-+    | КТ3102КМ       | 2  | npn, ??? Uce.max,V=50; Ic.max,A=0.1; Pmax,W=0.25; h21e=200-500; Fmax,MHz=200
-+    | КТ503Б         | 1  | npn, Uce.max,V=25; Ic.max,A=0.15; Pmax,W=0.35; h21e=80-240; Fmax,MHz=5
-+    | КТ368-А9       | 10 | npn, Uce.max,V=; Ic.max,A=; Pmax,W=; h21e=; Fmax,MHz=
------+----------------+----+--------
-+    | КП103Л         | 1  | P-FET, Usd,V=12; Isd.max,mA=20; Ugs.max,V=6; Rsd.On,MOhm=; Psd.max,W=0.066; S,mA/V=3
-+    | КП303В         | 1  | N-FET, Usd,V=25; Isd.max,mA=20; Ugs.max,V=4; Rsd.On,MOhm=; Psd.max,W=0.2; S,mA/V=3
-+    | КП303Г         | 1  | N-FET, Usd,V=25; Isd.max,mA=20; Ugs.max,V=8; Rsd.On,MOhm=; Psd.max,W=0.2; S,mA/V=5
-+    | КП303Д         | 1  | N-FET, Usd,V=25; Isd.max,mA=20; Ugs.max,V=8; Rsd.On,MOhm=; Psd.max,W=0.2; S,mA/V=2.6
-+    | КП303Е         | 1  | N-FET, Usd,V=25; Isd.max,mA=20; Ugs.max,V=8; Rsd.On,MOhm=; Psd.max,W=0.2; S,mA/V=4
-     |                |    |
-     |                |    |
------+----------------+----+--------
+-----+----------------+----+--------+--------------------------------
+USED | NAME           | N  | Price  |
+-----+----------------+----+--------+--------------------------------
++    | 2Т208Б         | 1  |        | pnp, Ucbo.max,V=20; Uce.max,V=30; Ic.max,A=0.15; Fmax,MHz=5; Pc,W=0.2, h21e.min=40
++    | ГТ322А 12 79   | 1  |        | pnp, Uce.max,V=20; Ic.max,A=0.15[0.3]; Pmax,W=0.2; h21e=40-120; Fmax,MHz=5
++    | КТ342А         | 1  |        | npn, Uce.max,V=25; Ic.max,A=0. 5[0.3]; Pmax,W=0.25; h21e=100-250; Fmax,MHz=250
++    | КТ3107Б        | 1  |        | pnp, Uce.max,V=45; Ic.max,A=0.1; Pmax,W=0.3; h21e=120-220; Fmax,MHz=200
+     | КТ3107Г        | 1  |        | pnp, Uce.max,V=25; Ic.max,A=0.1; Pmax,W=0.3; h21e=120-220; Fmax,MHz=200
+     | КТ3107И        | 2  |        | pnp, Uce.max,V=45; Ic.max,A=0.1; Pmax,W=0.3; h21e=180-460; Fmax,MHz=200
++    | КТ3102Б        | 1  |        | npn, Uce.max,V=50; Ic.max,A=0.1; Pmax,W=0.25; h21e=200-500; Fmax,MHz=200
++    | КТ3102Г        | 2  |        | npn, Uce.max,V=15; Ic.max,A=0.1; Pmax,W=0.25; h21e=400-1000; Fmax,MHz=200
++    | КТ3102Д        | 1  |        | npn, Uce.max,V=30; Ic.max,A=0.1; Pmax,W=0.25; h21e=200-500; Fmax,MHz=200
++    | КТ3102КМ       | 2  |        | npn, ??? Uce.max,V=50; Ic.max,A=0.1; Pmax,W=0.25; h21e=200-500; Fmax,MHz=200
++    | КТ503Б         | 1  |        | npn, Uce.max,V=25; Ic.max,A=0.15; Pmax,W=0.35; h21e=80-240; Fmax,MHz=5
++    | КТ368-А9       | 10 |        | npn, Uce.max,V=; Ic.max,A=; Pmax,W=; h21e=; Fmax,MHz=
+-----+----------------+----+--------+--------------------------------
++    | КП103Л         | 1  |        | P-FET, Usd,V=12; Isd.max,mA=20; Ugs.max,V=6; Rsd.On,MOhm=; Psd.max,W=0.066; S,mA/V=3
++    | КП303В         | 1  |        | N-FET, Usd,V=25; Isd.max,mA=20; Ugs.max,V=4; Rsd.On,MOhm=; Psd.max,W=0.2; S,mA/V=3
++    | КП303Г         | 1  |        | N-FET, Usd,V=25; Isd.max,mA=20; Ugs.max,V=8; Rsd.On,MOhm=; Psd.max,W=0.2; S,mA/V=5
++    | КП303Д         | 1  |        | N-FET, Usd,V=25; Isd.max,mA=20; Ugs.max,V=8; Rsd.On,MOhm=; Psd.max,W=0.2; S,mA/V=2.6
++    | КП303Е         | 1  |        | N-FET, Usd,V=25; Isd.max,mA=20; Ugs.max,V=8; Rsd.On,MOhm=; Psd.max,W=0.2; S,mA/V=4
+     |                |    |        |
+     |                |    |        |
+-----+----------------+----+--------+--------------------------------
 
 
  TRANZISTORS SMALL POWER - USA/EU/CHINA
------+----------------+----+--------
-USED | NAME           | N  | Price
------+----------------+----+--------
-+    | S8850->???     | 1  | pnp, Uce.max,V=; Ic.max,A=; Pmax,W=; h21e=; Fmax,MHz=
-     | C945  YC231    | 1  | npn, Uce.max,V=40; Ic.max,A=0.1; Pmax,W=0.25; h21e=90-160; Fmax,MHz=125
-     | 2SC945 *КТ3102Д| 10 | npn, Uce.max,V=40; Ic.max,A=0.1; Pmax,W=0.25; h21e=90-160; Fmax,MHz=125
-     | FMMT617        | 2  | npn, Uce.max,V=15; Ic.max,A=3; Pmax,W=0.8; h21e=200-450; Fmax,MHz=125
-     | FMMT618        | 1  | npn, Uce.max,V=20; Ic.max,A=2.5; Pmax,W=0.8; h21e=200-450; Fmax,MHz=140
-+    | A1023          | 1  | PNP, Uce.max,V=120; Ic.max,A=0.8; Pmax,W=1; h21e=80-240; Fmax,MHz=120 @ Hi VOLTAGE
-     | BC807-40       | 59 | pnp, Uce.max,V=45; Ic.max,A=0.5; Pmax,W=0.25; h21e=250-600; Fmax,MHz=80  @ SOT-23 
------+----------------+----+--------
-     | IRLML0030TRPBF | 10 | N-MOSFET, Vds,В=30; Rds,Ohm=0.027; Id,А=5.3; Id.pulse,А=21; Cg,pF=382; S,mA/V=9.5
-     |                |    |
-     |                |    |
------+----------------+----+--------
+-----+----------------+----+--------+--------------------------------
+USED | NAME           | N  | Price  |
+-----+----------------+----+--------+--------------------------------
++    | S8850->???     | 1  |        | pnp, Uce.max,V=; Ic.max,A=; Pmax,W=; h21e=; Fmax,MHz=
+     | C945  YC231    | 1  |        | npn, Uce.max,V=40; Ic.max,A=0.1; Pmax,W=0.25; h21e=90-160; Fmax,MHz=125
+     | 2SC945 *КТ3102Д| 10 |        | npn, Uce.max,V=40; Ic.max,A=0.1; Pmax,W=0.25; h21e=90-160; Fmax,MHz=125
+     | FMMT617        | 2  |        | npn, Uce.max,V=15; Ic.max,A=3; Pmax,W=0.8; h21e=200-450; Fmax,MHz=125
+     | FMMT618        | 1  |        | npn, Uce.max,V=20; Ic.max,A=2.5; Pmax,W=0.8; h21e=200-450; Fmax,MHz=140
++    | A1023          | 1  |        | PNP, Uce.max,V=120; Ic.max,A=0.8; Pmax,W=1; h21e=80-240; Fmax,MHz=120 @ Hi VOLTAGE
+     | BC807-40       | 59 |        | pnp, Uce.max,V=45; Ic.max,A=0.5; Pmax,W=0.25; h21e=250-600; Fmax,MHz=80  @ SOT-23 
+     | BC817-40       | 10 |        | npn, Uce.max,V=45; Ic.max,A=0.5; Pmax,W=0.225; h21e=250-600; Fmax,MHz=100 @ SOT-23 
+-----+----------------+----+--------+--------------------------------
+     | IRLML0030TRPBF | 10 |        | N-MOSFET, Vds,В=30; Rds,Ohm=0.027; Id,А=5.3; Id.pulse,А=21; Cg,pF=382; S,mA/V=9.5
+     | IRF7105        | 9  |        | P-N-MOSFET, 25V. 3.5A. -2.3A
+     |                |    |        |
+     |                |    |        |
+-----+----------------+----+--------+--------------------------------
 
 
  TRANZISTORS BIG POWER - USSR
------+----------------+----+--------
-USED | NAME           | N  | Price
------+----------------+----+--------
-+    | 2T606A         | 1  | npn, Uce.max,V=65; Ic.max,A=0.8; Pmax,W=2.5; h21e=15; Fmax,MHz=350
-+    | КT611БМ        | 1  | npn, Uce.max,V=200; Ic.max,A=0.1; Pmax,W=0.8; h21e=30; Fmax,MHz=60
-+    | КТ602БМ        | 1  | npn, Uce.max,V=100; Ic.max,A=0.075; Pmax,W=0,8; h21e=50-200; Fmax,MHz=150
-+    | КТ807Б         | 2  | npn, Uce.max,V=100; Ic.max,A=0.5; Pmax,W=10; h21e=15; Fmax,MHz=5
-+    | КТ814А         | 2  | pnp, Uce.max,V=70; Ic.max,A=1.5; Pmax,W=10; h21e=40; Fmax,MHz=50
-     | КТ814В (BD138) | 3  | pnp, Uce.max,V=70; Ic.max,A=1.5; Pmax,W=10; h21e=40; Fmax,MHz=50
-+    | КТ814Г         | 1  | pnp, Uce.max,V=70; Ic.max,A=1.5; Pmax,W=10; h21e=40; Fmax,MHz=50
-+    | КТ815Б         | 1  | npn, Uce.max,V=50; Ic.max,A=1.5; Pmax,W=10; h21e=40; Fmax,MHz=3
-     | КТ815Б         | 2  | npn, Uce.max,V=50; Ic.max,A=1.5; Pmax,W=10; h21e=40; Fmax,MHz=3
-     | КТ816А         | 3  | pnp, Uce.max,V=40; Ic.max,A=6; Pmax,W=25; h21e=25; Fmax,MHz=3
-     | КТ816В         | 1  | pnp, Uce.max,V=60; Ic.max,A=6; Pmax,W=25; h21e=25; Fmax,MHz=3
-     | КТ817Б         | 2  | npn, Uce.max,V=45; Ic.max,A=6; Pmax,W=25; h21e=25; Fmax,MHz=3
-     | КТ817Г         | 1  | npn, Uce.max,V=80; Ic.max,A=6; Pmax,W=25; h21e=25; Fmax,MHz=3
-+    | KT829A 9011    | 1  | npn, Uce.max,V=100; Ic.max,A=8; Pmax,W=60; h21e=750; Fmax,MHz=4
-+    | KT835A         | 1  | npn, Uce.max,V=40; Ic.max,A=3; Pmax,W=25; h21e=25; Fmax,MHz=1
-     | KT835A         | 2  | npn, Uce.max,V=40; Ic.max,A=3; Pmax,W=25; h21e=25; Fmax,MHz=1
-     | КТ85---        | 1  | npn, Uce.max,V=; Ic.max,A=; Pmax,W=; h21e=; Fmax,MHz=
-+    | KT837Т         | 2  | pnp, Uce.max,V=30; Ic.max,A=7,5; Pmax,W=30; h21e=10-40; Fmax,MHz>=1
-+    | KT837Ф         | 1  | pnp, Uce.max,V=30; Ic.max,A=7,5; Pmax,W=30; h21e=50-150; Fmax,MHz>=1
-+    | KT837У         | 2  | pnp, Uce.max,V=30; Ic.max,A=7,5; Pmax,W=30; h21e=20-80; Fmax,MHz>=1
-+    | КТ940А         | 1  | npn, Uce.max,V=300; Ic.max,A=0,1; Pmax,W=10; h21e=25; Fmax,MHz=1
-+    | КТ972A         | 2  | npn, Uce.max,V=60; Ic.max,A=4; Pmax,W=8; h21e=750; Fmax,MHz=200
-+    | КТ961A         | 1  | npn, Uce.max,V=100; Ic.max,A=1.5; Pmax,W=12; h21e=40; Fmax,MHz=50
-     |                |    |
-     |                |    |
------+----------------+----+--------
-     |                |    |
-     |                |    |
------+----------------+----+--------
+-----+----------------+----+--------+--------------------------------
+USED | NAME           | N  | Price  |
+-----+----------------+----+--------+--------------------------------
++    | 2T606A         | 1  |        | npn, Uce.max,V=65; Ic.max,A=0.8; Pmax,W=2.5; h21e=15; Fmax,MHz=350
++    | КT611БМ        | 1  |        | npn, Uce.max,V=200; Ic.max,A=0.1; Pmax,W=0.8; h21e=30; Fmax,MHz=60
++    | КТ602БМ        | 1  |        | npn, Uce.max,V=100; Ic.max,A=0.075; Pmax,W=0,8; h21e=50-200; Fmax,MHz=150
++    | КТ807Б         | 2  |        | npn, Uce.max,V=100; Ic.max,A=0.5; Pmax,W=10; h21e=15; Fmax,MHz=5
++    | КТ814А         | 2  |        | pnp, Uce.max,V=70; Ic.max,A=1.5; Pmax,W=10; h21e=40; Fmax,MHz=50
+     | КТ814В (BD138) | 3  |        | pnp, Uce.max,V=70; Ic.max,A=1.5; Pmax,W=10; h21e=40; Fmax,MHz=50
++    | КТ814Г         | 1  |        | pnp, Uce.max,V=70; Ic.max,A=1.5; Pmax,W=10; h21e=40; Fmax,MHz=50
++    | КТ815Б         | 1  |        | npn, Uce.max,V=50; Ic.max,A=1.5; Pmax,W=10; h21e=40; Fmax,MHz=3
+     | КТ815Б         | 2  |        | npn, Uce.max,V=50; Ic.max,A=1.5; Pmax,W=10; h21e=40; Fmax,MHz=3
+     | КТ816А         | 3  |        | pnp, Uce.max,V=40; Ic.max,A=6; Pmax,W=25; h21e=25; Fmax,MHz=3
+     | КТ816В         | 1  |        | pnp, Uce.max,V=60; Ic.max,A=6; Pmax,W=25; h21e=25; Fmax,MHz=3
+     | КТ817Б         | 2  |        | npn, Uce.max,V=45; Ic.max,A=6; Pmax,W=25; h21e=25; Fmax,MHz=3
+     | КТ817Г         | 1  |        | npn, Uce.max,V=80; Ic.max,A=6; Pmax,W=25; h21e=25; Fmax,MHz=3
++    | KT829A 9011    | 1  |        | npn, Uce.max,V=100; Ic.max,A=8; Pmax,W=60; h21e=750; Fmax,MHz=4
++    | KT835A         | 1  |        | npn, Uce.max,V=40; Ic.max,A=3; Pmax,W=25; h21e=25; Fmax,MHz=1
+     | KT835A         | 2  |        | npn, Uce.max,V=40; Ic.max,A=3; Pmax,W=25; h21e=25; Fmax,MHz=1
+     | КТ85---        | 1  |        | npn, Uce.max,V=; Ic.max,A=; Pmax,W=; h21e=; Fmax,MHz=
++    | KT837Т         | 2  |        | pnp, Uce.max,V=30; Ic.max,A=7,5; Pmax,W=30; h21e=10-40; Fmax,MHz>=1
++    | KT837Ф         | 1  |        | pnp, Uce.max,V=30; Ic.max,A=7,5; Pmax,W=30; h21e=50-150; Fmax,MHz>=1
++    | KT837У         | 2  |        | pnp, Uce.max,V=30; Ic.max,A=7,5; Pmax,W=30; h21e=20-80; Fmax,MHz>=1
++    | КТ940А         | 1  |        | npn, Uce.max,V=300; Ic.max,A=0,1; Pmax,W=10; h21e=25; Fmax,MHz=1
++    | КТ972A         | 2  |        | npn, Uce.max,V=60; Ic.max,A=4; Pmax,W=8; h21e=750; Fmax,MHz=200
++    | КТ961A         | 1  |        | npn, Uce.max,V=100; Ic.max,A=1.5; Pmax,W=12; h21e=40; Fmax,MHz=50
+     |                |    |        |
+     |                |    |        |
+-----+----------------+----+--------+--------------------------------
+     |                |    |        |
+     |                |    |        |
+-----+----------------+----+--------+--------------------------------
 
 
  TRANZISTORS BIG POWER - USA/EU/CHINA
------+----------------+----+--------
-USED | NAME           | N  | Price
------+----------------+----+--------
-     | IRF3205        | 2  | N-MOSFET, Vds,В=55; Ugs,В=20; Rds,Ohm=0.008; Id,А=110; Id.pulse,А=; Cg,pF=; S,mA/V=44, Psd.W=200
-     | IRF4905 K2  VU | 2  | P-MOSFET, Vds,В=55; Ugs,В=20; Rds,Ohm=0.02; Id,А=74; Id.pulse,А=; Cg,pF=; S,mA/V=21; Psd,W=200
-     | IRF710 Y95T AC | 2  | N-MOSFET, Vds,В=400; Ugs,В=20; Rds,Ohm=3.6; Id,А=2; Id.pulse,А=; Cg,pF=; S,mA/V=1; Psd,W=36
-     | IRFR3707ZTRPBF | 8  | N-MOSFET, Vds,В=30; Ugs,В=20; Rds,Ohm=0.0095; Id,А=56; Id.pulse,А=; Cg,pF=; S,mA/V=71; Psd,W=50
-     | IRFZ34N 4M 2B  | 2  | N-MOSFET, Vds,В=55; Ugs,В=20; Rds,Ohm=0.04; Id,А=26; Id.pulse,А=; Cg,pF=; S,mA/V=6.5; Psd,W=56
-     |                |    |
-     |                |    |
------+----------------+----+--------
-+    | BD676  9  923  | 10 | pnp, Uce.max,V=45; Ic.max,A=4; Pmax,W=40; h21e=750; Fmax,MHz=1
-     | C2335-Y        | 2  | npn, Uce.max,V=400; Ic.max,A=7; Pmax,W=40; h21e=20; Fmax,MHz=20
-     | C3502 E  3G    | 1  | npn, Uce.max,V=200; Ic.max,A=0.1; Pmax,W=5; h21e=125; Fmax,MHz=150
-+    | MJE13001       | 2  | npn, Uce.max,V=600; Ic.max,A=0.2; Pmax,W=10; h21e=10; Fmax,MHz=8
-     | MJE13001       | 2  | npn, Uce.max,V=600; Ic.max,A=0.2; Pmax,W=10; h21e=10; Fmax,MHz=855 @ to92
-     | MJE13003  Fe 83| 10 | npn, Uce.max,V=700; Ic.max,A=1.5; Pmax,W=40; h21e=15; Fmax,MHz=25 @ sot323
-     |                |    |
-     |                |    |
------+----------------+----+--------
+-----+----------------+----+--------+--------------------------------
+USED | NAME           | N  | Price  |
+-----+----------------+----+--------+--------------------------------
+     | IRF3205        | 2  |        | N-MOSFET, Vds,В=55; Ugs,В=20; Rds,Ohm=0.008; Id,А=110; Id.pulse,А=; Cg,pF=; S,mA/V=44, Psd.W=200
+     | IRF4905 K2  VU | 2  |        | P-MOSFET, Vds,В=55; Ugs,В=20; Rds,Ohm=0.02; Id,А=74; Id.pulse,А=; Cg,pF=; S,mA/V=21; Psd,W=200
+     | IRF710 Y95T AC | 2  |        | N-MOSFET, Vds,В=400; Ugs,В=20; Rds,Ohm=3.6; Id,А=2; Id.pulse,А=; Cg,pF=; S,mA/V=1; Psd,W=36
+     | IRFR3707ZTRPBF | 8  |        | N-MOSFET, Vds,В=30; Ugs,В=20; Rds,Ohm=0.0095; Id,А=56; Id.pulse,А=; Cg,pF=; S,mA/V=71; Psd,W=50
+     | IRFZ34N 4M 2B  | 2  |        | N-MOSFET, Vds,В=55; Ugs,В=20; Rds,Ohm=0.04; Id,А=26; Id.pulse,А=; Cg,pF=; S,mA/V=6.5; Psd,W=56
+     |                |    |        |
+     |                |    |        |
+-----+----------------+----+--------+--------------------------------
++    | BD676  9  923  | 10 |        | pnp, Uce.max,V=45; Ic.max,A=4; Pmax,W=40; h21e=750; Fmax,MHz=1
+     | C2335-Y        | 2  |        | npn, Uce.max,V=400; Ic.max,A=7; Pmax,W=40; h21e=20; Fmax,MHz=20
+     | C3502 E  3G    | 1  |        | npn, Uce.max,V=200; Ic.max,A=0.1; Pmax,W=5; h21e=125; Fmax,MHz=150
++    | MJE13001       | 2  |        | npn, Uce.max,V=600; Ic.max,A=0.2; Pmax,W=10; h21e=10; Fmax,MHz=8
+     | MJE13001       | 2  |        | npn, Uce.max,V=600; Ic.max,A=0.2; Pmax,W=10; h21e=10; Fmax,MHz=855 @ to92
+     | MJE13003  Fe 83| 10 |        | npn, Uce.max,V=700; Ic.max,A=1.5; Pmax,W=40; h21e=15; Fmax,MHz=25 @ sot323
+     |                |    |        |
+     |                |    |        |
+-----+----------------+----+--------+--------------------------------
 
 
 
------+----------------+----+--------
-USED | LDO, DC-DC     | N  | Price
------+----------------+----+--------
-     | SD1083 12 00   | 1  |
-     |                |    |
-     |                |    |
------+----------------+----+--------
-     |                |    |
-     |                |    |
-     |                |    |
------+----------------+----+--------
+-----+----------------+----+--------+--------------------------------
+USED | LDO, DC-DC     | N  | Price  |
+-----+----------------+----+--------+--------------------------------
+     | SD1083 12 00   | 1  |        |
+     |                |    |        |
+     |                |    |        |
+-----+----------------+----+--------+--------------------------------
+     |                |    |        |
+     |                |    |        |
+     |                |    |        |
+-----+----------------+----+--------+--------------------------------
 
 
 
------+----------------+----+--------
-USED | PWM Generators | N  | Price      
------+----------------+----+--------
-     | IR2153S        | 1/2| SELF-OSCILLATING HALF-BRIDGE DRIVER, VOFFSET 600V max., Duty Cycle 50%, Tr/Tp 80/40ns, Vclamp 15.6V, Deadtime (typ.) 1.2 μs
-     | SG3524N (DIP16)| 3  | Regulating Pulse-Width Modulators (for: Buck, Boost, Flyback, Forward, Full-Bridge, Half-Bridge, Push-Pull), Fsw=722kHz, Outputs=2, Duty Cycle Max:45%, Vout=4.6-5.4V, Iout=100mA, Fall_Time=100ns, Vcc=8..40V
-     | TL494CN        | 3  | Pulse-Width-Modulation Control Circuits, Iout=200mA, Vcc=7..40V, Fsw=1..300kHz, Duty Cycle Max:45%, Vout=4.6-5.4V
-     |                |    |
------+----------------+----+--------
-     |                |    |
-     |                |    |
------+----------------+----+--------
+-----+----------------+----+--------+--------------------------------
+USED | PWM Generators | N  | Price  |   
+-----+----------------+----+--------+--------------------------------
+     | IR2153S        | 1/2|        | SELF-OSCILLATING HALF-BRIDGE DRIVER, VOFFSET 600V max., Duty Cycle 50%, Tr/Tp 80/40ns, Vclamp 15.6V, Deadtime (typ.) 1.2 μs
+     | SG3524N (DIP16)| 3  |        | Regulating Pulse-Width Modulators (for: Buck, Boost, Flyback, Forward, Full-Bridge, Half-Bridge, Push-Pull), Fsw=722kHz, Outputs=2, Duty Cycle Max:45%, Vout=4.6-5.4V, Iout=100mA, Fall_Time=100ns, Vcc=8..40V
+     | TL494CN        | 3  |        | Pulse-Width-Modulation Control Circuits, Iout=200mA, Vcc=7..40V, Fsw=1..300kHz, Duty Cycle Max:45%, Vout=4.6-5.4V
+     |                |    |        |
+-----+----------------+----+--------+--------------------------------
+     |                |    |        |
+     |                |    |        |
+-----+----------------+----+--------+--------------------------------
 
 
 
------+----------------+----+--------
-USED | GATE DRIVERS   | N  | Price
------+----------------+----+--------
-     | IR2104S        | 4  |  HALF-BRIDGE DRIVER, VOFFSET 600V max., IO+/-=130mA/270 mA, VOUT=10..20V, ton/off(typ.) 680&150 ns, Deadtime(typ.)=520 ns
-     | IR2110S        | 4  |  HIGH AND LOW SIDE DRIVER, VOFFSET=500V(max.), IO+/-=2A/2A, VOUT 10..20V, ton/off(typ.) 120&94 ns, Delay Matching=10 ns max.
-     |                |    |
------+----------------+----+--------
-     |                |    |
-     |                |    |
------+----------------+----+--------
+-----+----------------+----+--------+--------------------------------
+USED | GATE DRIVERS   | N  | Price  |
+-----+----------------+----+--------+--------------------------------
+     | IR2104S        | 4  |        |  HALF-BRIDGE DRIVER, VOFFSET 600V max., IO+/-=130mA/270 mA, VOUT=10..20V, ton/off(typ.) 680&150 ns, Deadtime(typ.)=520 ns
+     | IR2110S        | 4  |        |  HIGH AND LOW SIDE DRIVER, VOFFSET=500V(max.), IO+/-=2A/2A, VOUT 10..20V, ton/off(typ.) 120&94 ns, Delay Matching=10 ns max.
+     |                |    |        |
+-----+----------------+----+--------+--------------------------------
+     |                |    |        |
+     |                |    |        |
+-----+----------------+----+--------+--------------------------------
 
 
 
------+----------------+----+--------
-USED | FERRO MAGMETIC | N  | Price
------+----------------+----+--------
-     | P4-T16/10/6-C  | 6  | 2.3 hrn  T16.0/9.6/6.3, Ui=2400, AL=1500nH
-     | H10K-T14/9/5-C | 9  | 1.8 hrn  T14.0/9.0/5.0, Ui=10000, AL~4400nH
-     | CF191-T1004    | 8  | 1.3 hrn  T10.0/6.0/4.0, (cosmofer), Ui=4300, AL=1700nH (Inductance on coil), Lsaturat.=450/300mT
-     | CF138-T1605-C  | 9  | 2.4 hrn  T16.0/9.5/5.0, Ui=2400, AL=1200nH (Inductance on coil)
-     |                |    |
-     |                |    |
------+----------------+----+--------
-     |                |    |
-     |                |    |
------+----------------+----+--------
+-----+----------------+----+--------+--------------------------------
+USED | FERRO MAGMETIC | N  | Price  |
+-----+----------------+----+--------+--------------------------------
+     | P4-T16/10/6-C  | 6  |        | 2.3 hrn  T16.0/9.6/6.3, Ui=2400, AL=1500nH
+     | H10K-T14/9/5-C | 9  |        | 1.8 hrn  T14.0/9.0/5.0, Ui=10000, AL~4400nH
+     | CF191-T1004    | 8  |        | 1.3 hrn  T10.0/6.0/4.0, (cosmofer), Ui=4300, AL=1700nH (Inductance on coil), Lsaturat.=450/300mT
+     | CF138-T1605-C  | 9  |        | 2.4 hrn  T16.0/9.5/5.0, Ui=2400, AL=1200nH (Inductance on coil)
+     |                |    |        |
+     |                |    |        |
+-----+----------------+----+--------+--------------------------------
+     |                |    |        |
+     |                |    |        |
+-----+----------------+----+--------+--------------------------------
 
 
 
------+----------------+----+--------
-USED |                | N  | Price
------+----------------+----+--------
-     |                |    |
-     |                |    |
-     |                |    |
-     |                |    |
------+----------------+----+--------
-     |                |    |
-     |                |    |
------+----------------+----+--------
+-----+----------------+----+--------+--------------------------------
+USED | MCU, DSP, CPU  | N  | Price  |
+-----+----------------+----+--------+--------------------------------
+     | STM8S003F3P6   | 15 | 0.5 USD| STM8, FLASH=8KB, EEPROM=128B, RAM=1KB, ADC Ch=5@10bits, SPI, I2C, UART (IrDA,LIN,Smartcard), 2x16-bit timers (PWM, Capture/Compare) & 1x8-bit, 2.95..5.5V, TSSOP20
+     | ATTINY13A-SSU  | 3  | 1 USD  | AVR 8bit: FLASH=1KB, EEPROM=64B, RAM=64B, ADC=10bit, PWM_Channels=2
+     |                |    |        |
+     |                |    |        |
+-----+----------------+----+--------+--------------------------------
+     |                |    |        |
+     |                |    |        |
+-----+----------------+----+--------+--------------------------------
 
 
 
------+----------------+----+--------
-USED |                | N  | Price
------+----------------+----+--------
-     |                |    |
-     |                |    |
-     |                |    |
-     |                |    |
------+----------------+----+--------
-     |                |    |
-     |                |    |
------+----------------+----+--------
+-----+----------------+----+--------+--------------------------------
+USED | IC             | N  | Price  |
+-----+----------------+----+--------+--------------------------------
+     | 74HC595D       | 8  | 2.9 hrn|        8-bit serial-in, serial or parallel-out shift register with output latches; 3-state
+     | 6N137          | 4  | 11 hrn/0.5 USD  Dual-Channel optocoupler, HCPL2630, HCPL2631 — High Speed 10MBit/s Logic Gate Optocoupler
+     |                |    |        |
+     |                |    |        |
+-----+----------------+----+--------+--------------------------------
+     |                |    |        |
+     |                |    |        |
+-----+----------------+----+--------+--------------------------------
 
 
 
------+----------------+----+--------
-USED |                | N  | Price
------+----------------+----+--------
-     |                |    |
-     |                |    |
-     |                |    |
-     |                |    |
------+----------------+----+--------
-     |                |    |
-     |                |    |
------+----------------+----+--------
+
+-----+----------------+----+--------+--------------------------------
+USED |                | N  | Price  |
+-----+----------------+----+--------+--------------------------------
+     |                |    |        |
+     |                |    |        |
+     |                |    |        |
+     |                |    |        |
+-----+----------------+----+--------+--------------------------------
+     |                |    |        |
+     |                |    |        |
+-----+----------------+----+--------+--------------------------------
