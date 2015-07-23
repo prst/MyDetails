@@ -82,7 +82,7 @@ USED | NAME           | N  | Price  |
 -----+----------------+----+--------+--------------------------------
 
 
- TRANZISTORS BIG POWER - USA/EU/CHINA
+ TRANTRANZISTORS BIG POWER - USA/EU/CHINA
 -----+----------------+----+--------+--------------------------------
 USED | NAME           | N  | Price  |
 -----+----------------+----+--------+--------------------------------
@@ -105,9 +105,9 @@ USED | NAME           | N  | Price  |
 -----+----------------+----+--------+--------------------------------
 
 
-
+LDO, DC-DC
 -----+----------------+----+--------+--------------------------------
-USED | LDO, DC-DC     | N  | Price  |
+USED | NAME           | N  | Price  |
 -----+----------------+----+--------+--------------------------------
      | SD1083 12 00   | 1  |        |
      |                |    |        |
@@ -119,9 +119,9 @@ USED | LDO, DC-DC     | N  | Price  |
 -----+----------------+----+--------+--------------------------------
 
 
-
+ PWM Generators 
 -----+----------------+----+--------+--------------------------------
-USED | PWM Generators | N  | Price  |   
+USED | NAME           | N  | Price  |   
 -----+----------------+----+--------+--------------------------------
      | IR2153S        | 1/2|        | SELF-OSCILLATING HALF-BRIDGE DRIVER, VOFFSET 600V max., Duty Cycle 50%, Tr/Tp 80/40ns, Vclamp 15.6V, Deadtime (typ.) 1.2 μs
      | SG3524N (DIP16)| 3  |        | Regulating Pulse-Width Modulators (for: Buck, Boost, Flyback, Forward, Full-Bridge, Half-Bridge, Push-Pull), Fsw=722kHz, Outputs=2, Duty Cycle Max:45%, Vout=4.6-5.4V, Iout=100mA, Fall_Time=100ns, Vcc=8..40V
@@ -133,9 +133,9 @@ USED | PWM Generators | N  | Price  |
 -----+----------------+----+--------+--------------------------------
 
 
-
+ GATE DRIVERS   
 -----+----------------+----+--------+--------------------------------
-USED | GATE DRIVERS   | N  | Price  |
+USED | NAME           | N  | Price  |
 -----+----------------+----+--------+--------------------------------
      | IR2104S        | 4  |        |  HALF-BRIDGE DRIVER, VOFFSET 600V max., IO+/-=130mA/270 mA, VOUT=10..20V, ton/off(typ.) 680&150 ns, Deadtime(typ.)=520 ns
      | IR2110S        | 4  |        |  HIGH AND LOW SIDE DRIVER, VOFFSET=500V(max.), IO+/-=2A/2A, VOUT 10..20V, ton/off(typ.) 120&94 ns, Delay Matching=10 ns max.
@@ -146,9 +146,9 @@ USED | GATE DRIVERS   | N  | Price  |
 -----+----------------+----+--------+--------------------------------
 
 
-
+ FERRO MAGMETIC 
 -----+----------------+----+--------+--------------------------------
-USED | FERRO MAGMETIC | N  | Price  |
+USED | NAME           | N  | Price  |
 -----+----------------+----+--------+--------------------------------
      | P4-T16/10/6-C  | 6  |        | 2.3 hrn  T16.0/9.6/6.3, Ui=2400, AL=1500nH
      | H10K-T14/9/5-C | 9  |        | 1.8 hrn  T14.0/9.0/5.0, Ui=10000, AL~4400nH
@@ -162,9 +162,9 @@ USED | FERRO MAGMETIC | N  | Price  |
 -----+----------------+----+--------+--------------------------------
 
 
-
+ MCU, DSP, CPU  
 -----+----------------+----+--------+--------------------------------
-USED | MCU, DSP, CPU  | N  | Price  |
+USED | NAME           | N  | Price  |
 -----+----------------+----+--------+--------------------------------
      | STM8S003F3P6   | 15 | 0.5 USD| STM8, FLASH=8KB, EEPROM=128B, RAM=1KB, ADC Ch=5@10bits, SPI, I2C, UART (IrDA,LIN,Smartcard), 2x16-bit timers (PWM, Capture/Compare) & 1x8-bit, 2.95..5.5V, TSSOP20
      | ATTINY13A-SSU  | 3  | 1 USD  | AVR 8bit: FLASH=1KB, EEPROM=64B, RAM=64B, ADC=10bit, PWM_Channels=2
@@ -176,24 +176,31 @@ USED | MCU, DSP, CPU  | N  | Price  |
 -----+----------------+----+--------+--------------------------------
 
 
-
+ IC             
 -----+----------------+----+--------+--------------------------------
-USED | IC             | N  | Price  |
+USED | NAME           | N  | Price  |
 -----+----------------+----+--------+--------------------------------
-     | 74HC595D       | 8  | 2.9 hrn|        8-bit serial-in, serial or parallel-out shift register with output latches; 3-state
-     | 6N137          | 4  | 11 hrn/0.5 USD  Dual-Channel optocoupler, HCPL2630, HCPL2631 — High Speed 10MBit/s Logic Gate Optocoupler
+     | 74HC595D       | 8  | 2.9 hrn| 8-bit serial-in, serial or parallel-out shift register with output latches; 3-state
+     | 6N137          | 4  | 11 hrn/0.5 USD | Dual-Channel optocoupler, HCPL2630, HCPL2631 — High Speed 10MBit/s Logic Gate Optocoupler
++    | 74F32D so14    | 10 |        | Quad 2-input OR gate, Vcc=4.5..5.5V, t_Propagation_delay=2.5..4.5ns 
++    | 74F08SC SO14   | 6  |        | Quad 2-Input AND Gate, Vcc=4.5..7V, t_Propagation_delay=2.5..4.5ns 
++    | N74F74D SO14   | 11 |        | Dual D-type flip-flop, Vcc=4.5..5.5V, 125MHz, 11.5mA
++    | 74F04SC SO14   | 5  |        | Hex Inverter, Vcc=4.5..7V, t_Propagation_delay=3.7..4ns 
++    | 74F125D SO14   | 7  |        | Quad buffers; 3-State, Vcc=4.5..7V, t_Propagation_delay=4..6ns 
++    | 74F10D SO14    | 2  |        | Triple 3-input NAND gate, Vcc=4.5..7V, t_Propagation_delay=4..5ns 
++    | 74F138D SO16   | 2  |        | 1-of-8 Decoder/Demultiplexer, Vcc=4.5..5.5V, t_Propagation_delay=4..6ns 
++    | 74F07D SO14    | 2  |        | Inverter/buffer drivers (High speed), 12V output termination voltage, Vcc=4.5..5.5V, Open Collector output drive 64mA,t_Propagation_delay=4.5ns 
+     |                |    |        |
+-----+----------------+----+--------+--------------------------------
      |                |    |        |
      |                |    |        |
 -----+----------------+----+--------+--------------------------------
-     |                |    |        |
-     |                |    |        |
------+----------------+----+--------+--------------------------------
 
 
 
 
 -----+----------------+----+--------+--------------------------------
-USED |                | N  | Price  |
+USED | NAME           | N  | Price  |
 -----+----------------+----+--------+--------------------------------
      |                |    |        |
      |                |    |        |
